@@ -1,4 +1,4 @@
-# nintendo_switch_challenge
+# Nintendo Switch Challenge
 
 A new Flutter project.
 
